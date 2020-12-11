@@ -1,2 +1,2 @@
 # go-templates
-Useful go templates for any projects
+Useful go templatess for any projects
